@@ -13,7 +13,7 @@ I have listed 10 coding challenges:
 2. Convert a decimal to binary
 3. Just the numbers
 4. Repeat the characters
-5. 
+5. Create a bus child
 6. Password Generator
 7. All Prime Numbers
 8.
@@ -32,6 +32,9 @@ Write a function in Python that accepts a list of any length that contains a mix
 
 Repeat the Characters:
 Create a Python function that accepts a string. The function should return a string, with each character in the original string doubled. If you send the function “now” as a parameter, it should return “nnooww,” and if you send “123a!”, it should return “112233aa!!”.
+
+Create a bus Child:
+Create a Bus child class that inherits from the Vehicle class. The default fare charge of any vehicle is seating capacity * 100. If Vehicle is Bus instance, we need to add an extra 10% on full fare as a maintenance charge. So total fare for bus instance will become the final amount = total fare + 10% of the total fare.
 
 Password Generator:
 Write a password generator in Python. Be creative with how you generate passwords - strong passwords have a mix of lowercase letters, uppercase letters, numbers, and symbols. The passwords should be random, generating a new password every time the user asks for a new password. Include your run-time code in a main method.
