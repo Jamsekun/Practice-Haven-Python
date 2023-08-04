@@ -13,7 +13,7 @@ I have listed 10 coding challenges:
 2. Convert a decimal to binary
 3. Just the numbers
 4. Repeat the characters
-5. Create a bus child
+5. Create a class of a vehicle and a child (BUS)
 6. Password Generator
 7. All Prime Numbers
 8.
